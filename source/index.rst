@@ -17,6 +17,8 @@ Welcome to Microbial Genomics Lab Spring 2023!
    Conda
    Git
    jupyter
+   Week2
+   exercises_week2
 
 .. Indices and tables
 .. ==================
