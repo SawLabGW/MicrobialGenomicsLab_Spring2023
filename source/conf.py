@@ -48,8 +48,13 @@ exclude_patterns = []
 #html_theme = 'alabaster'
 from cloud_sptheme import themes
 html_theme = 'redcloud'
+#html_theme = 'cloud'
+#html_theme = 'greencloud'
 
 pygments_style = 'lovelace'
+#pygments_style = 'tango'
+#pygments_style = 'autumn'
+#pygments_style = 'colorful'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
