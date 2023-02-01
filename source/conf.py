@@ -55,6 +55,14 @@ pygments_style = 'lovelace'
 #pygments_style = 'tango'
 #pygments_style = 'autumn'
 #pygments_style = 'colorful'
+#pygments_style = 'trac'
+#pygments_style = 'perldoc'
+#pygments_style = 'algol'
+#pygments_style = 'arduino'
+#pygments_style = 'friendly'
+#pygments_style = 'xcode'
+#pygments_style = 'pastie'
+#pygments_style = 'borland'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

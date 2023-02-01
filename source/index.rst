@@ -19,6 +19,10 @@ Welcome to Microbial Genomics Lab Spring 2023!
    jupyter
    Week2
    exercises_week2
+   Week3
+   GenomeAssemblies
+   markdown
+   pandoc
 
 .. Indices and tables
 .. ==================
