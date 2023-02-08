@@ -23,6 +23,8 @@ Welcome to Microbial Genomics Lab Spring 2023!
    GenomeAssemblies
    markdown
    pandoc
+   Week4
+   exercises_week4
 
 .. Indices and tables
 .. ==================
