@@ -25,6 +25,8 @@ Welcome to Microbial Genomics Lab Spring 2023!
    pandoc
    Week4
    exercises_week4
+   Week5
+   exercises_week5
 
 .. Indices and tables
 .. ==================
